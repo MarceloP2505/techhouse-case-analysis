@@ -39,7 +39,7 @@ O objetivo deste estudo foi analisar os dados de vendas entre **2020 e 2025**, c
 
 ## 📂 Arquivos do Repositório
 - `TechHouse - Relatório.pdf` → relatório final.  
-- `base_vendas_techhouse_2020_2025.xlsx` → base de dados simulada.   
+- `base_dash - techhouse 2020_2025.xlsx` → base de dados simulada + dashboard desenvolvida.   
 
 ---
 
