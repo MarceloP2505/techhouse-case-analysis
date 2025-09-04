@@ -37,13 +37,13 @@ O objetivo deste estudo foi analisar os dados de vendas entre **2020 e 2025**, c
 
 ---
 
-## 📂 Arquivos do Repositório
+## Arquivos do Repositório
 - `TechHouse - Relatório.pdf` → relatório final.  
 - `base_dash - techhouse 2020_2025.xlsx` → base de dados simulada + dashboard desenvolvida.   
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 📌 *Marcelo Cardoso – Engenharia de Produção*  
 📌 Interesse: **Análise de Dados | Qualidade | Processos**  
 📌 [LinkedIn](https://www.linkedin.com/in/marcelo-passos-cardoso) | [GitHub](https://github.com/MarceloP2505)
